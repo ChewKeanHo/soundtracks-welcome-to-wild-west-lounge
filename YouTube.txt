@@ -1,27 +1,27 @@
 TITLE
-🎧 | [MUSIC TITLE HERE]
+🎧 | Welcome to Wild West Lounge
 
 
 
 
 DESCRIPTION
-[DESCRIPTION HERE THAT CAN BE POSTED ON SOCIAL MEDIA]
+Another day in the Wild West another day to enjoy the fun moment. Here is another variant just for you.
 
-#electronicmusic #soundtrack
+#country #soundtrack #violin #melodic #uplifting #lively
 
 
 § COLLECTIONS
 ━━━━━━━━━━━━
-Album Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
-Genre Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
+Album Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAhqjFvS5M2_trqNGW1RoPVn
+Genre Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAig_Qh_wN-57n5iFHHSxgYL
 
 
 § METADATA
 ━━━━━━━━━━
-Music made on [PUBLISHED_DATE] (before 2025-10-30 terms of service changes) in: https://www.udio.com/
+Music made in: https://www.udio.com/
 Project by: (Holloway) Chew, Kean Ho
 Music License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
-Repository: [REPOSITORY_HERE]
+Repository: https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-lounge
 
 
 § FAQ
@@ -64,4 +64,4 @@ I just see A.I. is the next step forward and I want it to augment me; not resist
 
 
 TAGS
-electronicmusic, soundtrack
+country, soundtrack, violin solo, melodic, southern accent, country pop, pop, 1990s, uplifting, lively, energetic, fast, emotional
